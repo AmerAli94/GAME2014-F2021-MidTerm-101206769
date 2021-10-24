@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 126d25b71334a434388a1ad140fd19b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  regularBullet: {fileID: 6758629138613977725, guid: 0ca363660e122ca4d8a691c947b8df5e, type: 3}
+  regularBullet: {fileID: 3410381830599582752, guid: 0ca363660e122ca4d8a691c947b8df5e, type: 3}
   fatBullet: {fileID: 7795625368583097998, guid: 28aa4cdc2549cc649a107d99b893fd87, type: 3}
   pulsingBullet: {fileID: 8142933913386669739, guid: d49a506f65af2984cb67f0290d879a28, type: 3}
 --- !u!1 &519420028

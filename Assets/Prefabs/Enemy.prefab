@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae924e2913b5bc44fbb3383f344722e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyTransform: {fileID: 0}
+  enemyTransform: {fileID: 3091073566791249610}
   horizontalSpeed: 2
   horizontalBoundary: 8
   direction: 1
