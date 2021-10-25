@@ -20,7 +20,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3091073566791249610
 Transform:
   m_ObjectHideFlags: 0
@@ -119,8 +119,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyTransform: {fileID: 3091073566791249610}
-  horizontalSpeed: 2
-  horizontalBoundary: 8
+  verticalSpeed: 2
+  verticalBoundary: 4.5
   direction: 1
 --- !u!61 &5207501529346661145
 BoxCollider2D:
